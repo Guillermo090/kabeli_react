@@ -1,1 +1,1 @@
-# kabeli_react
+# kabeli_react course
